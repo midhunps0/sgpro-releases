@@ -1,0 +1,1 @@
+This repository hosts the release builds for Salesgator Pro installable packages for Windows, Linux and Android
